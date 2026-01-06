@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+
+
+.font-open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+header{
+    background-color: #ffd4b5
+}
